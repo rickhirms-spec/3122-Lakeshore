@@ -81,10 +81,65 @@ This attachment confirms that the 2025 Avangarde schedule did not include Unit 2
 
 This attachment supports John McKenzie's Dec. 23, Dec. 30, and Jan. 7 position that the form needed correction. The key visible issue is that the requester date field contains `1980/09/26` rather than a current 2025 request date.
 
+---
+
+### 8-GarageBeamRepairs.May10.pdf
+
+**Source email:** 2024-05-10 — HCC 109 - Garage Beam Repairs - Notice  
+**Message ID:** `18f63475f53733aa`
+
+**Parsed contents:**
+
+- Notice to all residents at 3122 Lakeshore Blvd/Rd West, Oakville.
+- Subject: Garage beam repairs.
+- Management noted steel beams in garage ceilings required repairs.
+- Project duration: approximately 6 weeks.
+- Work hours/noise window: weekdays between 8:00 AM and 5:00 PM.
+- Mobilization: May 15, 2024.
+
+**Unit schedule:**
+
+- Units 2, 24, 25: May 15 to May 24
+- Units 1, 6, 14: May 27 to June 5
+- Units 16, 17, 19, 20: June 6 to June 20
+- Demobilization: June 21
+
+**Resident requirements:**
+
+- No residents permitted in their garage during this time.
+- All items below and within 5 feet in all directions of the beam must be removed.
+- Owners to use visitor parking while the work is being done.
+- Residents should expect loud noises, dust, and vibration.
+- Questions directed to `smachado@mrcm.ca` or `customerservice@mrcm.ca`.
+
+**Relevance:**
+
+This notice confirms a 2024 garage beam repair phase that did not include Unit 29. It shows that some units had beam repairs before the later 2025/2026 reserve fund terrace/waterproofing project.
+
+---
+
+### HCC 109 ENGINEER VISIT 2024.pdf
+
+**Source email:** 2024-08-16 — HCC 109 - Notice  
+**Message ID:** `1915c8ac0eca4385`
+
+**Parsed contents:**
+
+- Corporation: Halton Condominium Corporation No. 109.
+- Subject: Engineer site visit.
+- Synergy engineer scheduled to visit on Monday August 19, 2024.
+- Purpose: assess condition of garages, terraces, and backyards.
+- Inspection purpose: note deficiencies at the property and common elements.
+- Residents asked to listen for a knock because access to garages and backyards was required.
+- Security guard would escort the engineer throughout the property.
+- Signed by Maple Ridge Community Management Ltd., Masoud Karimi, Property Manager.
+
+**Relevance:**
+
+This notice confirms Synergy was inspecting garages, terraces, and backyards in August 2024, before the Board later stated Synergy helped specify and tender the reserve fund work. It supports the timeline that engineering review preceded the Avangarde restoration work.
+
 ## Attachments Still to Read
 
-- `8-GarageBeamRepairs.May10.pdf`
-- `HCC 109 ENGINEER VISIT 2024.pdf`
 - `HCC 109 ENGINEER VISIT 2024 (002).pdf`
 - `ltr to owners re records(2609059.1).pdf`
 - `CAO-Guide-to-Condo-Records_2024_04_11.pdf`
